@@ -3,7 +3,7 @@ package Inheritance;
 public class Cosmetics extends Product{
     public String color;
     public double weight;
-
+//
     public String getColor(){
         return color;
     }

@@ -10,3 +10,4 @@ public class Fridge extends Electronics{
         this.temperature=temperature;
     }
 }
+//
