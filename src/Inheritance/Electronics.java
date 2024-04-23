@@ -38,4 +38,3 @@ public class Electronics extends Product{
         this.weight=weight;
     }
 }
-//
